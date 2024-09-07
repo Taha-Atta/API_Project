@@ -1,21 +1,18 @@
-## API COURSE (Project Files)
+## API project
 
-<img src="https://img-b.udemycdn.com/course/750x422/5201852_fbea_3.jpg">
 
-**Created By :** Mahmoud Anwar
-**Email :** Engsahaly@gmail.com
 
-This is the main readme file for the Project files used in the API Course on Udemy
+This is the main readme file for the Project files 
 
 ## Installation
 
 To get started, clone this repository.
 
 ```
-git clone https://github.com/engsahaly/API-COURSE.git
+
 ```
 
-Next, copy your `.env.example` file as `.env` and configure your Database connection.
+ copy your `.env.example` file as `.env` and configure your Database connection.
 
 ```
 DB_CONNECTION=mysql
