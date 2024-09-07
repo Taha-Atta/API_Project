@@ -8,9 +8,9 @@ This is the main readme file for the Project files
 
 To get started, clone this repository.
 
-```
 
-```
+
+
 
  copy your `.env.example` file as `.env` and configure your Database connection.
 
